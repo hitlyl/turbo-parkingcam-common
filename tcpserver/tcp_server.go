@@ -7,7 +7,7 @@ import (
 	"net"
 	"sync"
 	"time"
-	"turbo-parkingcam-common/protocol"
+	"github.com/hitlyl/turbo-parkingcam-common/protocol"
 )
 
 
