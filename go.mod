@@ -1,4 +1,4 @@
-module turbo-parkingcam-common
+module github.com/hitlyl/turbo-parkingcam-common
 
 go 1.16
 
